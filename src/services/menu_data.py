@@ -35,8 +35,7 @@ class MenuData:
         return dishes
 
 
-# menu_data = MenuData("data/menu_base_data.csv")
-# dishes = menu_data.dishes
-# # for dish in dishes:
-# #     print(dish.recipe)
-# print(dishes)
+# {Dish('lasanha presunto', R$25.90, {'queijo mussarela': 15, 'tomate': 10,
+# 'farinha de trigo': 10, 'sal': 5, 'água': 10, 'berinjela': 15}),
+# Dish('lasanha berinjela', R$27.00, {'queijo mussarela': 15, 'tomate': 10,
+# 'farinha de trigo': 10, 'sal': 5, 'água': 10, 'presunto': 15})}
